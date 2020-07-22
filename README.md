@@ -1,0 +1,1 @@
+# tablas-verdad-c
